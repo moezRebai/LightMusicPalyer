@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightMusicPlayer", "LightMusicPlayer\LightMusicPlayer.csproj", "{8C9F48C0-C009-4F3F-8BF6-ECFDCF66CD54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFSoundVisualizationLib", "..\..\WPFSVL\Source\WPFSoundVisualizationLibrary\WPFSoundVisualizationLib.csproj", "{90F96222-1C39-4A19-ABE8-1B00FB330985}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFSoundVisualizationLib", "WPFSoundVisualizationLibrary\WPFSoundVisualizationLib.csproj", "{90F96222-1C39-4A19-ABE8-1B00FB330985}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

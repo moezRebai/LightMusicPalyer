@@ -12,7 +12,7 @@
          <Members>
           <Member Name="#NAudioEngine_PropertyChanged(System.Object,System.ComponentModel.PropertyChangedEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
            <Messages>
-            <Message TypeName="Do not dispose objects multiple times" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2015-07-12 11:48:14Z" FixCategory="DependsOnFix">
+            <Message TypeName="Do not dispose objects multiple times" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2015-07-12 13:15:29Z" FixCategory="DependsOnFix">
              <Issue Certainty="75" Level="Warning" Path="d:\Moez Work\T4\MusicPlayer\LightMusicPlayer\LightMusicPlayer" File="MainWindow.xaml.cs" Line="67">Object 'albumArtworkMemStream' can be disposed more than once in method 'MainWindow.NAudioEngine_PropertyChanged(object, PropertyChangedEventArgs)'. To avoid generating a System.ObjectDisposedException you should not call Dispose more than one time on an object.: Lines: 67</Issue>
             </Message>
            </Messages>
@@ -27,14 +27,14 @@
          <Members>
           <Member Name="#Dispose(System.Boolean)" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="False">
            <Messages>
-            <Message Id="waveformGenerateWorker" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2015-07-12 11:48:14Z" FixCategory="NonBreaking">
+            <Message Id="waveformGenerateWorker" TypeName="DisposableFieldsShouldBeDisposed" Category="Microsoft.Usage" CheckId="CA2213" Status="Active" Created="2015-07-12 13:15:29Z" FixCategory="NonBreaking">
              <Issue Certainty="75" Level="Warning" Path="d:\Moez Work\T4\MusicPlayer\LightMusicPlayer\LightMusicPlayer\Helpers" File="NAudioEngine.cs" Line="77">'NAudioEngine' contains field 'NAudioEngine.waveformGenerateWorker' that is of IDisposable type: 'BackgroundWorker'. Change the Dispose method on 'NAudioEngine' to call Dispose or Close on this field.</Issue>
             </Message>
            </Messages>
           </Member>
           <Member Name="#waveformGenerateWorker_DoWork(System.Object,System.ComponentModel.DoWorkEventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
            <Messages>
-            <Message TypeName="Do not dispose objects multiple times" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2015-07-12 11:48:14Z" FixCategory="DependsOnFix">
+            <Message TypeName="Do not dispose objects multiple times" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2015-07-12 13:15:29Z" FixCategory="DependsOnFix">
              <Issue Certainty="75" Level="Warning" Path="d:\Moez Work\T4\MusicPlayer\LightMusicPlayer\LightMusicPlayer\Helpers" File="NAudioEngine.cs" Line="304">Object 'waveformInputStream' can be disposed more than once in method 'NAudioEngine.waveformGenerateWorker_DoWork(object, DoWorkEventArgs)'. To avoid generating a System.ObjectDisposedException you should not call Dispose more than one time on an object.: Lines: 304</Issue>
              <Issue Certainty="75" Level="Warning" Path="d:\Moez Work\T4\MusicPlayer\LightMusicPlayer\LightMusicPlayer\Helpers" File="NAudioEngine.cs" Line="304">Object 'waveformMp3Stream' can be disposed more than once in method 'NAudioEngine.waveformGenerateWorker_DoWork(object, DoWorkEventArgs)'. To avoid generating a System.ObjectDisposedException you should not call Dispose more than one time on an object.: Lines: 304, 306, 307</Issue>
             </Message>
