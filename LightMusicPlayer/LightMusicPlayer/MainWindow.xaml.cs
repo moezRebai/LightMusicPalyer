@@ -14,6 +14,8 @@ namespace LightMusicPlayer
         public MainWindow()
         {
             InitializeComponent();
+			//Hi
+			
             Closing += (s, e) => ViewModelLocator.Cleanup();
         }
     }
