@@ -1,0 +1,14 @@
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\bin\Debug\license.txt
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.XML
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.dll
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.pdb
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.csprojResolveAssemblyReference.cache
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib_MarkupCompile.cache
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib_MarkupCompile.lref
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\obj\Debug\Themes\Generic.baml
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.g.resources
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.Properties.Resources.resources
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.csproj.GenerateResource.Cache
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.dll
+D:\Moez Work\T4\WPFSVL\Source\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.pdb
